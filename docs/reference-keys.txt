@@ -1,8 +1,8 @@
-cetl-msor-2022-beyond-alt-text-creating-explorable-objects-in-place-of-images-in-digital-resources.
 final-report
 classification-of-difficulty-of-conversion.
 easy
 medium
+hard
 things-i-wish-i-knew-before-creating-the-resources
 top-tips
 logical-vs-accessible
