@@ -1,0 +1,16 @@
+cetl-msor-2022-beyond-alt-text-creating-explorable-objects-in-place-of-images-in-digital-resources.
+final-report
+classification-of-difficulty-of-conversion.
+easy
+medium
+things-i-wish-i-knew-before-creating-the-resources
+top-tips
+logical-vs-accessible
+comparing-accessibilities-between-original-and-simplified-tan-graphs
+a-perfect-recreation-is-not-necessary
+adding-geogebra-to-a-html-document
+html-embed-code
+disabling-pan-and-zoom-on-geogebra-applets
+desmos
+defining-a-function-over-a-range.
+naming-graphs
