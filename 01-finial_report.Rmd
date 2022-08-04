@@ -1,5 +1,7 @@
 # Final Report
 
+*Dalip Bachu*
+
 Understanding the differences between the variance in the difficulties
 of recreating the resources shown in the document
 <https://mathcentre.ac.uk/resources/uploaded/mc-ty-trigratiosanysize-2009-1.pdf>

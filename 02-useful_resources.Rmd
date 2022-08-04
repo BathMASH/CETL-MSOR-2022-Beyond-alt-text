@@ -1,0 +1,7 @@
+# Useful resources
+
+- It's useful to get an understanding of what your resources are like when *viewed* with a screen reader. Emma Cliffe has made this useful resource to get going: [Getting started with with a simple screen reader](https://people.bath.ac.uk/cspehj/coventry/arclengthInR.html)
+- The [accessibility notes for Desmos](https://www.desmos.com/accessibility) are a good place to start.
+- The [accessibility notes for Geogebra](https://wiki.geogebra.org/en/Accessibility)  are less good but at least they don't take too long to read!
+- There are [comprehesive tutorials on learning how to use Geogebra](https://www.geogebra.org/m/XUv5mXTm).
+- The [Diagram Center's Poet image desccription training site](https://poet.diagramcenter.org/index.html) is useful place to start when thinking about describing images. 

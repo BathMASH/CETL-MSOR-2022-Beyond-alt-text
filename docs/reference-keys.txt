@@ -14,3 +14,4 @@ disabling-pan-and-zoom-on-geogebra-applets
 desmos
 defining-a-function-over-a-range.
 naming-graphs
+useful-resources
