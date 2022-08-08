@@ -19,8 +19,10 @@ original resource -- the main goal for it is to be accessible. Shown
 below is my example resource for the recreated sin.
 
 ![](./Final Report_img/media/image2.png){width="1.89375in"
-height="2.876388888888889in"}![](./Final Report_img/media/image3.png){width="6.268055555555556in"
+height="2.876388888888889in"}
+![](./Final Report_img/media/image3.png){width="6.268055555555556in"
 height="2.290277777777778in"}
+
 Naming the graph as "graph of sine x" is useful, as the screen reader will read it out literally as it is
 spelled. Having as few components as possible on the left-hand side
 makes it the most accessible, as there is not too much to output from
@@ -235,6 +237,7 @@ experimenting with the screen reader.
 
 ![](./Final Report_img/media/image10.png){width="3.192361111111111in"
 height="2.647222222222222in"}
+
 Initially, I thought it would be best to
 create an accessible recreation of the resources that are already made.
 This was because I felt that the text surrounding the objects, used to

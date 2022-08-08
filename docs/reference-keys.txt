@@ -1,3 +1,8 @@
+guiding-principles
+maps-not-directions
+simplify
+the-wheel-is-already-invented
+useful-resources
 final-report
 classification-of-difficulty-of-conversion.
 easy
@@ -14,4 +19,3 @@ disabling-pan-and-zoom-on-geogebra-applets
 desmos
 defining-a-function-over-a-range.
 naming-graphs
-useful-resources
