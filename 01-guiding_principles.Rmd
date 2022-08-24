@@ -44,5 +44,6 @@ height="2.6631944444444446in"}
 
 Using the *baked in* functionality of the software adds some extra tick marks but creates a much cleaner experience.
 
-![](./Final Report_img/media/image3.png){width="6.268055555555556in"
-height="2.290277777777778in"}
+```{r, echo=FALSE}
+knitr::include_url("https://www.desmos.com/calculator/2hnoezytni?embed")
+```
