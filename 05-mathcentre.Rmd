@@ -1,4 +1,6 @@
-# Images in Mathcentre and HELM
+# The size of the problem
+
+The post-16 maths support community has two large sources of resources that contain unaccessible images; Mathcentre and Helm.
 
 The [mathcentre website](https://www.mathcentre.ac.uk/) now maintained by the [**sigma** network](http://www.sigma-network.ac.uk/) host support materials for anyone looking for post-16 maths help.
 
@@ -8,25 +10,29 @@ The [mathcentre website](https://www.mathcentre.ac.uk/) now maintained by the [*
 
 There are over 1000 images embedded in the mathcentre resources. The HELM resources have about 900 images in them.  Most will be easy to recreate as a digital object. Some will be tricky here is a flavor of the type of object still to be done.
 
-### Easy
+## Types of image
 
-Quickly done in desmos using one equation and some formatting options.
+Fortunately for the majority of the images in these resources it is relatively easy to create a digital object. Below is a categorization of the difficulty of creating these objects with some examples.
+
+### Easy ~5mins
+
+Quickly done in Desmos using one equation and some formatting options.
 
 ```{r, echo=FALSE}
 knitr::include_graphics("img/cubicsfig1.svg")
 ```
 
-### Medium
+### Medium ~15mins
 
-Can be done in desmos using more than one equation and formatting options.
+Can be done in Desmos using more than one equation and formatting options.
 
 ```{r, echo=FALSE}
 knitr::include_graphics("img/integ92Fig1.svg")
 ```
 
-### Hard
+### Hard ~?mins
 
-Can only be done in geogebra. Will probably require making and then remaking to make an object that is easily navigable.
+Can only be done in GeoGebra. Will probably require making and then remaking to make an object that is easily navigable.
 
 ```{r, echo=FALSE}
 knitr::include_graphics("img/vectors-scalarprod-fig5.svg")

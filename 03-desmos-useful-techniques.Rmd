@@ -22,7 +22,7 @@ knitr::include_url("https://www.desmos.com/calculator/usu3h5pyis?embed")
 
 To get this use the embed link `https://www.desmos.com/calculator/usu3h5pyis?embed` and the options shown below.
 
-To limit the domain of the function we write. $y = sin(x) \{-2\pi \le x \le 2\pi\}$ which can be obtained by typing `y=sin(x)\{2pi<=x<=2pi\}` into the Desmos graphing calculator.
+To limit the domain of the function we write. $y = sin(x) \{-2\pi \le x \le 2\pi\}$ which can be obtained by typing `y=sin(x){2pi<=x<=2pi}` into the Desmos graphing calculator.
 
 To streamline the look of the diagram the following options were used.
 
@@ -45,9 +45,9 @@ knitr::include_url("https://www.desmos.com/calculator/losncepxjt?embed")
 
 The following equations were used to make this.
 
-- $f(x) = x^2 { x > 0}$ by typing `f(x) = x^2 {x > 0}`
+- $f(x) = x^2 \{ x > 0\}$ by typing `f(x) = x^2 {x > 0}`
 - $\int_a^b f(x) dx$ by typing `int f(x) dx` and adding `a` and `b` to the limit boxes and selecting add sliders to all.
-- To shade the region under the graph add $0 \le y \le f(x) {a \le x \le b}$ by typing `0 <= y <= f(x) {a <= x <= b}`
+- To shade the region under the graph add $0 \le y \le f(x) \{a \le x \le b\}$ by typing `0 <= y <= f(x) {a <= x <= b}`
 
 You can then change the sliders to change the shaded area. Desmos even computes the value of the integral.
 

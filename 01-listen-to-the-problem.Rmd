@@ -1,0 +1,29 @@
+# Listen to the problem
+
+It's useful to get an understanding of what your resources are like when *viewed* with a screen reader. It's very straight forward to get a simple screen reader going on google chrome, you can then try out your resources us. Emma Cliffe has made this useful resource to get going: [Getting started with with a simple screen reader](https://people.bath.ac.uk/cspehj/coventry/arclengthInR.html)
+
+## Desmos audio trace
+
+When you are in the equation window on the side of the Desmos graphing calculator pres `alt` and `t` to get screen reader menu. You can then click 'hear graph' to get an audio representation of the graph. The [accessibility notes for Desmos](https://www.desmos.com/accessibility) will tell you more about this feature. 
+
+Can you identify which graph is being played via the Desmos audio trace?
+
+### Challenge 1
+
+```{r, echo=FALSE}
+knitr::include_url("https://www.desmos.com/calculator/ynybna6ahr?embed")
+```
+
+```{r, echo=FALSE}
+knitr::include_url("https://www.desmos.com/calculator/gijb5foiho?embed")
+```
+
+### Challenge 2
+
+```{r, echo=FALSE}
+knitr::include_url("https://www.desmos.com/calculator/tpbus3mq8g?embed")
+```
+
+```{r, echo=FALSE}
+knitr::include_url("https://www.desmos.com/calculator/inxf0yqfu5?embed")
+```
