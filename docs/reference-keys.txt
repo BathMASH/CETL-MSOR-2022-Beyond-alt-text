@@ -27,3 +27,8 @@ scale-of-the-problem
 easy-1
 medium-1
 hard-1
+desmos-useful-techniques
+removing-clutter
+y-sinx-with-no-formating
+y-sinx-with-formating
+showing-areas-under-graphs
