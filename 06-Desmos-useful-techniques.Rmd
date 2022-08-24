@@ -1,10 +1,10 @@
 # Desmos useful techniques
 
-Here are some useful techniques when using desmos.
+Here are some useful techniques when using Desmos.
 
 ## Removing clutter
 
-By selecting a few options in desmos you can create really nice looking diagrams.
+By selecting a few options in Desmos you can create really nice looking diagrams.
 
 ### $y = sin(x)$ with no formating
 
@@ -12,7 +12,7 @@ By selecting a few options in desmos you can create really nice looking diagrams
 knitr::include_url("https://www.desmos.com/calculator/qq0fjs6jvd")
 ```
 
-This is was made by just entering the equation $y = sin(x)$ into desmos, saving it and copying the link `https://www.desmos.com/calculator/qq0fjs6jvd`.
+This is was made by just entering the equation $y = sin(x)$ into Desmos, saving it and copying the link `https://www.desmos.com/calculator/qq0fjs6jvd`.
 
 ### $y = sin(x)$ with formating
 
@@ -20,7 +20,9 @@ This is was made by just entering the equation $y = sin(x)$ into desmos, saving 
 knitr::include_url("https://www.desmos.com/calculator/usu3h5pyis?embed")
 ```
 
-To limit the domain of the function we write. $y = sin(x) {-2\pi \le x \le 2\pi}$ which can be obtained by typing `y=sin(x){2pi<=x<=2pi}` into the desmos graphing calculator.
+To get this use the embed link `https://www.desmos.com/calculator/usu3h5pyis?embed` and the options shown below.
+
+To limit the domain of the function we write. $y = sin(x) {-2\pi \le x \le 2\pi}$ which can be obtained by typing `y=sin(x){2pi<=x<=2pi}` into the Desmos graphing calculator.
 
 To streamline the look of the diagram the following options were used.
 
@@ -43,12 +45,13 @@ knitr::include_url("https://www.desmos.com/calculator/losncepxjt?embed")
 
 The following equations were used to make this.
 
-- large font
-- deselect grid
-- change x axis limits
-- change y axis limits
+- $f(x) = x^2 { x > 0}$ by typing `f(x) = x^2 {x > 0}`
+- $\int_a^b f(x) dx$ by typing `int f(x) dx` and adding `a` and `b` to the limit boxes and selecting add sliders to all.
+- To shade the region under the graph add $0 \le y \le f(x) {a \le x \le b}$ by typing `0 <= y <= f(x) {a <= x <= b}`
 
-Adding the following equations gives you the desired result.
+You can then change the sliders to change the shaded area. Desmos even computes the value of the integral.
+
+This is what the list of equations looks like on Desmos.
 
 ```{r, echo=FALSE}
 knitr::include_graphics("img/desmos_options_integration_example.png")

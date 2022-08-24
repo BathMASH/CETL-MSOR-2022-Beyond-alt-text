@@ -106,9 +106,9 @@ height="2.9881944444444444in"}
     resource -- the screen reader will read out every single component
     and there is not a way to suppress the information being read out.
 
-    -   Marking things as auxiliary objects does not work -- they hide
-        them from the algebra view but when navigating through the
-        graphics views they get read out.
+-   Marking things as auxiliary objects does not work -- they hide
+    them from the algebra view but when navigating through the
+    graphics views they get read out.
 
 -   Use the in-built captioning features to describe an edge or a point
     is more accessible than creating text, as a visually impaired person
@@ -125,7 +125,7 @@ height="2.9881944444444444in"}
     despite it potentially not being the most logical way to create the
     resource.
 
-    -   An example of this will be shown later in the document.
+-   An example of this will be shown later in the document.
 
 -   It is not always necessary to create a perfect recreation of the
     original image -- a simpler looking but more accessible resource is
@@ -141,10 +141,10 @@ height="2.9881944444444444in"}
     construction protocol where you can move things around (be careful
     with dependencies).
 
--   Use {} in Desmos to define where you want the function to start and
+-   Use `{}` in Desmos to define where you want the function to start and
     finish.
 
--   Use \<= to create the or equal to signs.
+-   Use `<=` to create the or equal to signs.
 
 ### Logical vs Accessible:
 
