@@ -20,3 +20,5 @@ desmos
 defining-a-function-over-a-range.
 naming-graphs
 audio-trace
+challenge-1
+challenge-2
