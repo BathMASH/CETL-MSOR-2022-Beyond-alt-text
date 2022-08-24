@@ -22,7 +22,7 @@ knitr::include_url("https://www.desmos.com/calculator/usu3h5pyis?embed")
 
 To get this use the embed link `https://www.desmos.com/calculator/usu3h5pyis?embed` and the options shown below.
 
-To limit the domain of the function we write. $y = sin(x) {-2\pi \le x \le 2\pi}$ which can be obtained by typing `y=sin(x){2pi<=x<=2pi}` into the Desmos graphing calculator.
+To limit the domain of the function we write. $y = sin(x) \{-2\pi \le x \le 2\pi\}$ which can be obtained by typing `y=sin(x)\{2pi<=x<=2pi\}` into the Desmos graphing calculator.
 
 To streamline the look of the diagram the following options were used.
 
