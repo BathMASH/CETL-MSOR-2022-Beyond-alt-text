@@ -1,0 +1,7 @@
+# Audio trace
+
+Can you identify which graph is being played via the desmos audio trace?
+
+```{r, echo=FALSE}
+knitr::include_url("https://www.desmos.com/calculator/m9srieluyj", height="500px")
+```
