@@ -22,3 +22,8 @@ naming-graphs
 audio-trace
 challenge-1
 challenge-2
+mathcentre
+scale-of-the-problem
+easy-1
+medium-1
+hard-1

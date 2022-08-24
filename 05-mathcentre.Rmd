@@ -1,0 +1,31 @@
+# Mathcentre
+
+The [mathcentre website](https://www.mathcentre.ac.uk/) now maintained by the [**sigma** network](http://www.sigma-network.ac.uk/) host support materials for anyone looking for post-16 maths help.
+
+## Scale of the problem
+
+There are over 1000 images embedded in the mathcentre resources. Most will be easy to recreate as a digital object. Some will be tricky here is a flavour of the type of object still to be done.
+
+### Easy
+
+Quickly done in desmos using one equation and some formatting options.
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/cubicsfig1.svg")
+```
+
+### Medium
+
+Can be done in desmos using more than one equation and formatting options.
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/integ92Fig1.svg")
+```
+
+### Hard
+
+Can only be done in geogebra. Will probably require making and then remaking to make an object that is easily navigable.
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/vectors-scalarprod-fig5.svg")
+```
