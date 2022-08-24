@@ -5,11 +5,11 @@ Can you identify which graph is being played via the desmos audio trace?
 ## Challenge 1
 
 ```{r, echo=FALSE}
-knitr::include_url("https://www.desmos.com/calculator/yiccnqqrh0?embed")
+knitr::include_url("https://www.desmos.com/calculator/ynybna6ahr?embed")
 ```
 
 ```{r, echo=FALSE}
-knitr::include_url("https://www.desmos.com/calculator/opk4fsgbyo?embed")
+knitr::include_url("https://www.desmos.com/calculator/gijb5foiho?embed")
 ```
 
 ## Challenge 2
