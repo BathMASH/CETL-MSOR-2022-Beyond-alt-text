@@ -3,5 +3,5 @@
 Can you identify which graph is being played via the desmos audio trace?
 
 ```{r, echo=FALSE}
-knitr::include_url("https://www.desmos.com/calculator/tpbus3mq8g?embed", height="500px")
+knitr::include_url("https://www.desmos.com/calculator/tpbus3mq8g?embed")
 ```
