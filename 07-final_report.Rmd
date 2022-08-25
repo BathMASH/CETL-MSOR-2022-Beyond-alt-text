@@ -11,16 +11,14 @@ A mock up of the [accessible version of 'Trigonometric ratios of an angle of any
 
 ### Easy: 
 
-![](./Final Report_img/media/image1.png){width="6.268055555555556in"
-height="2.6631944444444446in"}
+![](./Final Report_img/media/image1.png){width="6.268055555555556in" height="2.6631944444444446in"}
 This is the original static image of the
 sin graph. Recreating this within Desmos is an easy task, as Desmos is
 very intuitive. It does not need to look exactly as it does in the
 original resource -- the main goal for it is to be accessible. Shown
 below is my example resource for the recreated sin.
 
-![](./Final Report_img/media/image2.png){width="1.89375in"
-height="2.876388888888889in"}
+
 ![](./Final Report_img/media/image3.png){width="6.268055555555556in"
 height="2.290277777777778in"}
 
@@ -30,7 +28,10 @@ makes it the most accessible, as there is not too much to output from
 the screen reader. Having a \<= sign creates a less than or equal to
 sign, this is useful to know. Having the x axis scale in 90 is done by
 clicking the spanner in the top right corner and writing 90 in step. An
-example of how to do this is shown on the right.
+example of how to do this is shown below.
+
+![](./Final Report_img/media/image2.png){width="1.89375in"
+height="2.876388888888889in"}
 
 ### Medium:
 
@@ -144,7 +145,7 @@ height="2.9881944444444444in"}
 -   Use `{}` in Desmos to define where you want the function to start and
     finish.
 
--   Use `<=` to create the or equal to signs.
+-   Use `<=` to create the or equal to signs in Desmos.
 
 ### Logical vs Accessible:
 
@@ -374,7 +375,7 @@ lends itself to easy diagrams. Here are some tips for using it.
 
 ### Defining a function over a range.
 
-In order to define a function over a certain range, use {} after the
+In order to define a function over a certain range, use `{}` after the
 function. An example is shown below.
 
 ![](./Final Report_img/daf27aa683e0fd9dfd50082458801eefc0c513df.png){width="6.260416666666667in"
