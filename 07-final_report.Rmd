@@ -338,7 +338,7 @@ height="3.1055555555555556in"}
     div with class=\"embed-responsive embed-responsive-16by9\" so the
     applet can rescale so it can be used on a phone.
 
-Resizing the GeoGebra file after embedding:
+### Resizing the GeoGebra file after embedding
 
 It is likely that the GeoGebra "applets" will need resizing once you
 have written the code. The easiest way to do this is to resize the
