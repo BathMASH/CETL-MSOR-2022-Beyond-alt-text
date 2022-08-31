@@ -641,7 +641,7 @@ Although not yet implimented, the procedure to help with the image conversion is
 
 ```{r echo=FALSE}
 csv_data = read.csv('csv/list_of_img.csv')
-kable(csv_data)
+kable(csv_data, caption = "Example of spreadsheet")
 ```
 
 <!--chapter:end:09-how-to-help.Rmd-->
