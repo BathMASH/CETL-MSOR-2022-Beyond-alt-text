@@ -1,0 +1,18 @@
+# Why are we here?
+
+If a picture tells a 1000 words why do we need to add anymore with alt-text? There are two reasons: because we have to and because we should.
+
+## Because we have to
+
+Most univeristies are subject to *The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018*, [jisc has some good guidance on what this means for universities](https://www.jisc.ac.uk/accessibility). 
+
+If resources are WCAG 2.1 (Web Content Accessibility Guidelines) complient then they will conform to the governments regulations. Creating digital objects in place of images aligns with the WCAG principles of:
+
+- Perceivable
+- Operable
+- Understandable
+- Robust
+
+## Because we should
+
+When creating an accessible resource it helps to reflect on the purpose of the image It's a good exercise to 
