@@ -2,14 +2,13 @@
 
 ## Maps not directions
 
-Navigating from A to B if you go wrong on a set of directions your lost. However, if you have a map you've got a chance to find your way again. 
+Navigating from A to B, if you're go wrong on a set of directions your lost. However, if you have a map you've got a chance to find your way again. 
 
-Creating an explorable digital object rather than writing alt text gives the user the opportunity to build a map of the image rather than someone else's interpretation of it.
+Creating an explorable digital object rather than writing alt text gives the user the opportunity to build a map of the image themselves, rather than rely on someone else's interpretation.
 
 Example: Geometric diagram.
 
-![Diagram Description automatically
-generated](./Final Report_img/media/image4.png){width="6.268055555555556in"
+![Image of right angled triangle](./Final Report_img/media/image4.png){width="6.268055555555556in"
 height="2.2381944444444444in"}
 
 Creating a digital interactive geometric diagram allows the user to move between points themsleves and findout what is connected to what. 
@@ -27,7 +26,7 @@ For example the arrows on this image.
 ![](./Final Report_img/media/image10.png){width="3.192361111111111in"
 height="2.647222222222222in"}
 
-Once the object becomes interactive they become irrelavent since the user can move the object themselves.
+Once the object becomes interactive the arrows become irrelavent since the user can move the object themselves.
 
 ```{r, echo=FALSE}
 knitr::include_url("https://www.geogebra.org/material/iframe/id/qqq2vrjp/width/1920/height/961/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false", height="300px")
@@ -35,9 +34,9 @@ knitr::include_url("https://www.geogebra.org/material/iframe/id/qqq2vrjp/width/1
 
 ## The wheel is already invented
 
-Where possible use the in build functionality of the software being used to make digital objects. 
+Where possible use the in built functionality of the software being used to make digital objects. 
 
-For example to recreate the tick marks on the following image. Three extra points would have to be added to the dirgram. This make more clutter for a screen reader user.
+To recreate the tick marks on the following image, three extra points would have to be added to the dirgram. This makes more clutter for a screen reader user.
 
 ![](./Final Report_img/media/image1.png){width="6.268055555555556in"
 height="2.6631944444444446in"}

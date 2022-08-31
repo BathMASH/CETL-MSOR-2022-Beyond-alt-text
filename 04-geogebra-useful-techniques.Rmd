@@ -1,3 +1,5 @@
 # GeoGebra useful techniques
 
 GeoGebra is a powerful tool. However, expect to invest some time getting to grips with it to make the most out of using it.
+
+See Dalip's notes in the final report.

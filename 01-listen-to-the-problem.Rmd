@@ -1,6 +1,6 @@
 # Listen to the problem
 
-It's useful to get an understanding of what your resources are like when *viewed* with a screen reader. It's very straight forward to get a simple screen reader going on google chrome, you can then try out your resources us. Emma Cliffe has made this useful resource to get going: [Getting started with with a simple screen reader](https://people.bath.ac.uk/cspehj/coventry/arclengthInR.html)
+It's useful to get an understanding of what your resources are like when *viewed* with a screen reader. It's very straight forward to get a simple screen reader going on google chrome, you can then try out your resources. Emma Cliffe has made this useful resource to get going: [Getting started with with a simple screen reader.](https://people.bath.ac.uk/cspehj/coventry/arclengthInR.html)
 
 ## Desmos audio trace
 

@@ -1,18 +1,18 @@
 # The size of the problem
 
-The post-16 maths support community has two large sources of resources that contain unaccessible images; Mathcentre and Helm.
+The post-16 maths support community has two large sources of resources that contain inaccessible images; Mathcentre and Helm.
 
-The [mathcentre website](https://www.mathcentre.ac.uk/) now maintained by the [**sigma** network](http://www.sigma-network.ac.uk/) host support materials for anyone looking for post-16 maths help.
+The [mathcentre website](https://www.mathcentre.ac.uk/), now maintained by the [**sigma** network](http://www.sigma-network.ac.uk/), host support materials for anyone looking for post-16 maths help.
 
 [HELM (Help Engineers Learn Maths)](https://github.bath.ac.uk/pages/MASH/HELM/) is a popular resource that has already been converted to HTML. The next stage now is to recreate the images as digital objects.
 
 ## Scale of the problem
 
-There are over 1000 images embedded in the mathcentre resources. The HELM resources have about 900 images in them.  Most will be easy to recreate as a digital object. Some will be tricky here is a flavor of the type of object still to be done.
+There are over 1000 images embedded in the mathcentre resources. The HELM resources have about 900 images.  Most will be easy to recreate as a digital object. Some will be tricky here is a flavor of the type of object still to be done.
 
 ## Types of image
 
-Fortunately for the majority of the images in these resources it is relatively easy to create a digital object. Below is a categorization of the difficulty of creating these objects with some examples.
+Fortunately, for the majority of the images in these resources, it is relatively easy to create a digital object. Below is a categorisation of the difficulty of creating these objects with some examples.
 
 ### Easy ~5mins
 
