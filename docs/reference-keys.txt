@@ -31,7 +31,11 @@ comparing-accessibilities-between-original-and-simplified-tan-graphs
 a-perfect-recreation-is-not-necessary
 adding-geogebra-to-a-html-document
 html-embed-code
+resizing-the-geogebra-file-after-embedding
 disabling-pan-and-zoom-on-geogebra-applets
 desmos
 defining-a-function-over-a-range.
 naming-graphs
+why-are-we-here
+because-we-have-to
+because-we-should
