@@ -15,4 +15,5 @@ If resources are WCAG 2.1 (Web Content Accessibility Guidelines) complient then 
 
 ## Because we should
 
+Working towards the WCAG guidlines improves the quality of the resources for everyone.
 When creating an accessible resource it helps to reflect on the purpose of the image It's a good exercise to 
