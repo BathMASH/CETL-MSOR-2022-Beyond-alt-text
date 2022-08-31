@@ -8,6 +8,7 @@ Although not yet implimented, the procedure to help with the image conversion is
 - Objects inserted into the resources automatically
 
 ```{r echo=FALSE}
+library(knitr)
 csv_data = read.csv('csv/list_of_img.csv')
 kable(csv_data, caption = "Example of spreadsheet")
 ```
