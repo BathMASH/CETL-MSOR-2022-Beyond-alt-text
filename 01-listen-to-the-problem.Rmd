@@ -15,7 +15,7 @@ knitr::include_url("https://www.desmos.com/calculator/ynybna6ahr?embed")
 ```
 
 ```{r, echo=FALSE}
-knitr::include_url("https://www.desmos.com/calculator/gijb5foiho?embed")
+knitr::include_url("https://www.desmos.com/calculator/q83pv7enih?embed")
 ```
 
 ### Challenge 2
