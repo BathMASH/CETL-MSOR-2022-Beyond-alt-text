@@ -1,4 +1,4 @@
-tab:unnamed-chunk-15
+tab:unnamed-chunk-16
 listen-to-the-problem
 desmos-audio-trace
 challenge-1
@@ -13,6 +13,8 @@ y-sinx-with-no-formating
 y-sinx-with-formating
 showing-areas-under-graphs
 geogebra-useful-techniques
+make-everyrhing-twice
+expect-to-invest-some-time
 the-size-of-the-problem
 scale-of-the-problem
 types-of-image
