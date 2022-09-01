@@ -12,3 +12,9 @@ library(knitr)
 csv_data = read.csv('csv/list_of_img.csv')
 kable(csv_data, caption = "Example of spreadsheet")
 ```
+
+Scan this to get the link to this:
+
+```{r, echo=FALSE}
+knitr::include_graphics("img/qr_code.png")
+```
