@@ -9,3 +9,5 @@ The session will aim to:
 - Offer guidance on how to use the digital tools Desmos and Geogebra to create digital objects in place of images, and share insight on which is best to convert different types of images. 
 - Expose the size of the conversion task for the resources on the mathcentre website. 
 - Set out a framework to allow the maths support community to collaborate on the mathcentre image conversion task.  
+
+[View the source code to see how this gitbook was created here](https://github.com/BathMASH/CETL-MSOR-2022-Beyond-alt-text)
